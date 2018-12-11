@@ -1,0 +1,6 @@
+restauracion de imagenes
+1) generar ruido sal y pimienta
+2) usar filtro media para eliminar ruido sal y pimienta
+compilacion:	g++ -std=c++11 bmpRestaurar.cpp -o bmpRestaurar
+ejecucion:	./bmpRestaurar ghostInShell.bmp
+salida:		tratadaRuido.bmp y tratadaRestaurada.bmp

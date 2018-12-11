@@ -1,0 +1,2 @@
+//gcc -o bmpV1 bmpV1.c
+//./bmpV1 linux_detergente.bmp -x2
